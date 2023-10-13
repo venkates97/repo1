@@ -1,0 +1,62 @@
+
+*******************
+Application Requirement *
+*******************
+
+Page 1 - Home Page
+----------------------
+1) Learn New word
+2) Strong your memory(Reminds me 1-2-3-7-31)
+3) All Words
+4) Random words
+
+Page 2- Learn New word
+---------------------------
+1.1) Text=> New Word
+	Text=> Sysnoms
+	Text=> Ananyms
+	Text=> Remember thing
+	Submit=> Save Data
+
+Page 3- Strong Your Memory
+-------------------------------
+2.1) Display how many words for today
+	Start button
+	cancel
+2.2) Today No Words to Recall
+	=> Add New words
+	=> Over All Your Vocabs
+	=> Try With Random words
+	
+	2.1.1) Show old words from order(31-> 7->3->2)
+		2.1.1.1) if exit or not complete show where they live
+		2.1.1.2) Show Action button(I remember)
+			==>Popup Right answer
+			==> Are you Sure this Answer Match your Guess?
+				Yes=> Move to next Memory Cycle
+				No=> Restart Memory Cycle
+
+		2.1.1.3)Show button (Forgot) 
+			==>Restart the memory cycle
+			==>pop up Right Answer
+
+Page 3- All Words
+-------------------
+3.1) Show All Words Learned/ Stored
+
+
+Page 4- Random Words
+-------------------------
+4.1) Show Random Words
+	
+	if exit or not complete show where they live
+		2.1.1.2) Show Action button(I remember)
+			==>Popup Right answer
+			==> Are you Sure this Answer Match your Guess?
+				Yes=> Move to next Memory Cycle
+				No=> Restart Memory Cycle
+
+		2.1.1.3)Show button (Forgot) 
+			==>Restart the memory cycle
+			==>pop up Right Answer
+	

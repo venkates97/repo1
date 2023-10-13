@@ -1,0 +1,65 @@
+/* Body Style */
+.website-body {
+    background: linear-gradient(to bottom, #ffff00 0%, #ff9900 100%);
+    background-repeat: no-repeat;
+    height: auto;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif, Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+
+h1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 30px;
+    margin-top: 0px;
+
+}
+
+h3 {
+    font-size: 20px;
+    ;
+    height: auto;
+
+
+}
+
+/* Box Style */
+
+.welcome-page-row-1 {
+    background-color: rgba(229, 243, 239, 0.514);
+    height: max-content;
+    margin: 100px;
+    padding: 0px;
+
+
+}
+
+.welcome-page-row-1-col-1 {
+    display: inline;
+    height: 100%;
+    margin: 50px;
+    position: relative;
+    float: left;
+    width: 40%;
+}
+
+.welcome-page-row-1-col-2 {
+    position: relative;
+    display: inline;
+    float: left;
+
+
+}
+
+button {
+    height: 200px;
+    width: 200px;
+    border-radius: 100px;
+    text-align: center;
+    margin: 0 50px 50px 50px;
+    background-color: #343409;
+}
+
+.button-click:hover {
+    color: black;
+    background-color: #ff9900;
+}

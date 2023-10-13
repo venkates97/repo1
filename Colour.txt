@@ -1,0 +1,18 @@
+BAckground Colour - Gradient Colour
+-----------------------------------
+#ffff00 To #ff9900 Up to down
+Css code: 
+background: linear-gradient(to bottom, #ffff00 0%, #ff9900 100%);
+
+
+Text Colour
+-----------
+Dark Green - #343409
+USe when Dark Green As BG - #FEFE33 (Yellow)
+
+Hover Colour
+-----------
+#CBCB01
+
+
+

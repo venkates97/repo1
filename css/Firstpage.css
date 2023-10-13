@@ -1,0 +1,46 @@
+.website-body{
+    background:linear-gradient(to bottom, #ffff00 0%, #ff9900 100%);
+    background-repeat: no-repeat;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+.tittle-banner{
+    text-shadow: 1px 1px 5px grey;
+
+}
+h2{
+    font-size: 20px;
+    text-align: center;
+    
+}
+
+.page-banner{
+    color: #343409;
+    margin-top: 0px;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+.container{
+    text-align: center;
+    height:auto;
+    margin: 50px 0;
+    
+}
+
+.menu-box{
+    display: inline-block;
+    position: relative;
+    background: #343409;
+    width: 23%;
+    text-align: center;
+    padding: 50px 0;
+    margin: 10px 10px;
+    color: #CBCB01;
+}
+.menu-box:hover{
+    background-color: #700CBC;
+    color: #FB9902;
+    box-shadow: 0 0 20px #E3F7D4;
+}

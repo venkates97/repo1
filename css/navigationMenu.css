@@ -1,0 +1,34 @@
+.navigation-menu{
+    background-color: #343409;
+    height: auto;
+    text-align: center;
+    margin: 0;
+    width: 100%;
+
+    display: flex;
+    position:fixed;
+    
+
+}
+.page-link{
+    text-decoration: none;
+    list-style: none;
+    text-align: center;
+    margin: 0 5px;
+    padding: 10px;
+    height: auto;
+
+}
+a{
+    text-decoration: none;
+    text-align: center;
+    font-size: 15px;
+    color: #FEFE33;
+
+}
+.page-link:hover{
+    background-color: #700CBC;
+    color: #FB9902;
+    box-shadow: 0 0 20px #E3F7D4;
+    height: auto;
+}
